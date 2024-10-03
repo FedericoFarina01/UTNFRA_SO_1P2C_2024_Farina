@@ -1,0 +1,4 @@
+Mi ip publica es: 190.190.157.229
+Mi usuario es: osboxes
+El hash de mi usuario es: $y$j9T$qhEBRUgELZ6aUXPI0/aEx/$hxyNAbxfwvhkceqg/IHmYlGcZk9dItipuurCa2pA0l9
+La URL de mi repositorio es: https://github.com/FedericoFarina01/UTNFRA_SO_1P2C_2024_Farina.git
